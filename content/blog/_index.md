@@ -18,7 +18,7 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Nelson Pray @nelsonpray
-  description: "No current posts but when I write one this description will be updated as well"
+  description: "Contains thoughts, half-formed ideas, and who knows what else"
   show_sidebar_adunit: false
   #text_link_label: Subscribe via RSS
   #text_link_url: /index.xml
