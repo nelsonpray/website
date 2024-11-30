@@ -17,5 +17,5 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 HUGO_ENV = 'production'
 
 [[redirects]]
-  from="/rfid"
-  to="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  from="/chip"
+  to="https://www.youtube.com/watch?v=WxnN05vOuSM"
